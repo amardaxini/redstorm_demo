@@ -1,5 +1,5 @@
 require 'json'
-require 'redis'
+
 module C4CAnalyzer
   class SortedTweetBolt < RedStorm::SimpleBolt
   	on_init do

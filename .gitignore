@@ -6,4 +6,4 @@ storm
 ivy
 .bundle
 Gemfile.lock
-.DS_STORE
+.DS_Store

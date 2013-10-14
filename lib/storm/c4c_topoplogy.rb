@@ -1,5 +1,4 @@
 require 'red_storm'
-require 'red_storm'
 
 require 'lib/storm/twitter_search_spout'
 require 'lib/storm/extract_tweet_message_bolt'
